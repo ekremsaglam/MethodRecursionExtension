@@ -1,0 +1,16 @@
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodRecursion&Extension\bin\Debug\net5.0\methodRecursion&Extension.exe
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodRecursion&Extension\bin\Debug\net5.0\methodRecursion&Extension.deps.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodRecursion&Extension\bin\Debug\net5.0\methodRecursion&Extension.runtimeconfig.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodRecursion&Extension\bin\Debug\net5.0\methodRecursion&Extension.runtimeconfig.dev.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodRecursion&Extension\bin\Debug\net5.0\methodRecursion&Extension.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodRecursion&Extension\bin\Debug\net5.0\ref\methodRecursion&Extension.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodRecursion&Extension\bin\Debug\net5.0\methodRecursion&Extension.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodRecursion&Extension\obj\Debug\net5.0\methodRecursion&Extension.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodRecursion&Extension\obj\Debug\net5.0\methodRecursion&Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodRecursion&Extension\obj\Debug\net5.0\methodRecursion&Extension.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodRecursion&Extension\obj\Debug\net5.0\methodRecursion&Extension.AssemblyInfo.cs
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodRecursion&Extension\obj\Debug\net5.0\methodRecursion&Extension.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodRecursion&Extension\obj\Debug\net5.0\methodRecursion&Extension.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodRecursion&Extension\obj\Debug\net5.0\ref\methodRecursion&Extension.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodRecursion&Extension\obj\Debug\net5.0\methodRecursion&Extension.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\methodRecursion&Extension\obj\Debug\net5.0\methodRecursion&Extension.genruntimeconfig.cache
